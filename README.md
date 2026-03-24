@@ -1,10 +1,4 @@
 
-To replace the remote history entirely (use with care):
-
-```bash
-git push -u origin main --force
-```
-
 ## Prerequisites
 
 - **Node.js** 18+ and **npm**
