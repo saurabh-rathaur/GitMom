@@ -1,25 +1,3 @@
-# GitMom
-
-Desktop Git helper (Electron + React + Vite): workspace, history, search, languages, issues, commit/push, and diffs.
-
-**Repository:** [github.com/saurabh-rathaur/GitMom](https://github.com/saurabh-rathaur/GitMom)
-
-### Push code to GitHub (from your machine)
-
-If this folder is already a git repo with `origin` set:
-
-```bash
-git add -A
-git commit -m "Describe your change"
-git push origin main
-```
-
-If the remote already has an initial commit (e.g. GitHub README) and push is rejected:
-
-```bash
-git pull origin main --allow-unrelated-histories --no-edit
-git push -u origin main
-```
 
 To replace the remote history entirely (use with care):
 
